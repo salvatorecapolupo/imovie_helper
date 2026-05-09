@@ -2,7 +2,7 @@
 
 Systematic diagnosis of missing media files in an iMovie project using the terminal and Python.
 
-![problem example](Screenshot 2026-05-09 alle 06.56.23.png)
+![problem example](Screenshot%202026-05-09%20alle%2006.56.23.png)
 
 ## Problem
 
@@ -100,7 +100,7 @@ Once missing files are identified, the options are:
 
 Diagnostica dei file media mancanti in un progetto iMovie tramite terminale e Python.
 
-![problem example](Screenshot 2026-05-09 alle 06.56.23.png)
+![problem example](Screenshot%202026-05-09%20alle%2006.56.23.png)
 
 ## Problema
 
